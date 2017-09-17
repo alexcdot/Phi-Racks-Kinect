@@ -1,0 +1,1 @@
+﻿"C:\Users\alexb\Downloads\curl-7.55.1\builds\libcurl-vc13-x86-release-static-ipv6-sspi-winssl\bin\curl.exe" "ec2-52-15-176-225.us-east-2.compute.amazonaws.com:8080/api"
